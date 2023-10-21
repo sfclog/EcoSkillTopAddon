@@ -1,0 +1,8 @@
+name: EcoSkillsTopAddon
+version: '${project.version}'
+main: ecoskillstopaddon.Main
+api-version: 1.16
+authors: [ SFC_Log ]
+depend:
+  - EcoSkills
+  - PlaceholderAPI
